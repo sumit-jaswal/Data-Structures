@@ -1,4 +1,4 @@
-# Lenear Search - Searching for a element 'search' one by one by comparing it with each element in the list 'lis'
+# Lenear Search - Searching for a one by one by comparing it with each element in the list.
 def linear_search(l,num):
 	for i in range(len(l)):
 		if(l[i]==num):
