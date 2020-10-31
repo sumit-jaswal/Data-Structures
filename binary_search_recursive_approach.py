@@ -1,5 +1,5 @@
 # Binary Search
-# Searching for an element in a sorted list by dividing it into sublists based on the location of the element to be found.   '''
+# Searching for an element in a sorted list by dividing it into sublists based on the location of the element to be found.
 # Recursive approach
 
 def binary_search_recursive(list1,element,lower,higher):

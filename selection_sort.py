@@ -1,6 +1,6 @@
 # Selection Sort : Find the minimum element in each iteration and place at its correct positon.
 # Input  : [15, 31, 7, 6, 2]
-# Outpit : [2, 6, 7, 15, 31]
+# Output : [2, 6, 7, 15, 31]
 
 def selection_sort(lis):
 	for i in range(0,len(lis)-1):
